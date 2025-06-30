@@ -6,3 +6,5 @@ vless://bbdd4eea-92f7-41ef-be1d-4dcc36d5082d@gm.gameserversir.ir:24213?type=tcp&
 vless://5f5bd2fa-b696-49ac-acb8-3039ba717532@gm.gameserversir.ir:55360?type=tcp&security=none#pfd7d4pd
 trojan://OnSCuMDI1K@gm.gameserversir.ir:26324?type=grpc&serviceName=&authority=&mode=multi&security=none#cu2pi7jc
 vless://c121eff2-f738-4423-a8d6-d5afdf52eaf6@gm.gameserversir.ir:14655?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#vmeezovg
+vless://0d04ec8c-01ae-44d4-8790-ef5da1650026@gm.gameserversir.ir:43501?type=ws&path=%2Fdffssa1234&host=gm.gameserversir.ir&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=gm.gameserversir.ir#4itvsjn8
+socks://VkNRTnhHbGV0ejplTjFQb0FEbkpQ@213.176.127.40:10808#s
