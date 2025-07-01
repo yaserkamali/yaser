@@ -7,3 +7,4 @@ vless://511eb1e1-0cd0-4077-ba78-3fb59ed8b526@gm.gameserversir.ir:55360?type=tcp&
 trojan://OnSCuMDI1K@gm.gameserversir.ir:26324?type=grpc&serviceName=&authority=&mode=multi&security=none#cu2pi7jc
 vless://8897dad4-4187-4929-8fbe-cc587ab2af53@gm.gameserversir.ir:14655?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#TR8
 vless://b13ff86a-af75-4540-adbe-70baf2a98a45@gm.gameserversir.ir:43501?type=ws&path=%2Fdffssa1234&host=gm.gameserversir.ir&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=gm.gameserversir.ir#TR9
+socks://VkNRTnhHbGV0ejplTjFQb0FEbkpQ@213.176.127.40:10808#s
