@@ -1,6 +1,8 @@
-vless://8fa16b93-8130-4540-8b47-79a9715998ad@gm.gameserversir.ir:6666?type=tcp&security=reality&pbk=SjNHK3XzCyS8OIawa-OHxcjHbzDj4a5M28at2nx0X0k&fp=chrome&sni=yahoo.com&sid=a1921e0e&spx=%2F#R1-1
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206VUF2YUVaUVJZMy9YdHZGQ3ZOdzVnM3M5RVFlN0lEOTg4R3ZyWjdrSVhWND06RlZRUzFxSTJJeTFWTWtpTldORTNkbEYyWGpvNnBjc0lzT2d6dytiL3hsST0@gm.gameserversir.ir:45053?type=tcp#shadow1-2
-vless://e9d5b2a8-5aa7-4b69-ab88-0f2f8710c05b@gm.gameserversir.ir:44722?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=gm.gameserversir.ir#v1-3
-vless://6e371fa0-4b7b-4b40-ae0e-bdd91ff9d05f@gm.gameserversir.ir:17884?type=ws&path=%2Fgm.gameserversir.ir12345&host=gm.gameserversir.ir&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=gm.gameserversir.ir#v2-4
-vless://5dd1e708-dd9b-45de-9ec6-50bd073248a1@gm.gameserversir.ir:24213?type=tcp&security=reality&pbk=9eeTMz-tk8pIXntLXGWtX7oscOhkLoROwOOD9pEvqyw&fp=chrome&sni=ftp.debian.org&sid=61bcac2f56&spx=%2Frealyy#R2-5
-vless://681889df-7181-40c1-8268-a317044a3755@gm.gameserversir.ir:55360?type=tcp&security=none#SIMP1-6
+vless://93d4c934-f050-4b24-bc74-a1e19a485a8e@213.176.127.40:12125?type=tcp&security=none#l1
+vless://397356bc-87b0-4d1b-ba57-2caac293ef00@80.240.16.141:31104?type=tcp&security=none#direct-l2
+vless://2298c022-13e6-4c48-a8c6-0e6d5689e74d@80.240.16.141:29783?type=tcp&security=none#l3
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJsNCIsCiAgImFkZCI6ICI4MC4yNDAuMTYuMTQxIiwKICAicG9ydCI6IDM2ODQxLAogICJpZCI6ICIwMGY3MDk0Yy04MDIzLTQ4ZDEtYmE2MS00ZmQyNDc5OWE5MjgiLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogIm5vbmUiLAogICJ0bHMiOiAibm9uZSIKfQ==
+vless://fa7bcc6d-19c9-44b2-80e4-ecd34e5dd564@300232332.webnama.com.tr:1517?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%201
+vless://fa7bcc6d-19c9-44b2-80e4-ecd34e5dd564@99823232.webnama.com.tr:1517?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%202
+vless://fa7bcc6d-19c9-44b2-80e4-ecd34e5dd564@230920393.f-sub.com:3799?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://fa7bcc6d-19c9-44b2-80e4-ecd34e5dd564@2393123233.torob.com.tr:1429?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%A5%F3%A0%81%AE%F3%A0%81%A7%F3%A0%81%BF%20England
