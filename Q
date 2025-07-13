@@ -1,10 +1,6 @@
-vless://b668ac83-32a2-4027-bf60-7ca2a6d1d99b@gm.gameserversir.ir:6666?type=tcp&security=reality&pbk=SjNHK3XzCyS8OIawa-OHxcjHbzDj4a5M28at2nx0X0k&fp=chrome&sni=yahoo.com&sid=a1921e0e&spx=%2F#R1-Q1
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206VUF2YUVaUVJZMy9YdHZGQ3ZOdzVnM3M5RVFlN0lEOTg4R3ZyWjdrSVhWND06TlFqbjUramUxOHZkYW85Yy9SelM2QnNQcmU3ZnJLY2N1WDlNby9mY2NGYz0@gm.gameserversir.ir:45053?type=tcp#shadow1-Q2
-vless://a627554d-1e0c-4e5b-80e0-560de8674873@gm.gameserversir.ir:44722?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=gm.gameserversir.ir#v1-Q3
-vless://ece37e73-fc1e-4204-9e7b-8825efa3deb7@gm.gameserversir.ir:17884?type=ws&path=%2Fgm.gameserversir.ir12345&host=gm.gameserversir.ir&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=gm.gameserversir.ir#v2-Q4
-vless://525f3e85-c720-408f-b2fb-72dd295cc670@gm.gameserversir.ir:24213?type=tcp&security=reality&pbk=9eeTMz-tk8pIXntLXGWtX7oscOhkLoROwOOD9pEvqyw&fp=chrome&sni=ftp.debian.org&sid=61bcac2f56&spx=%2Frealyy#R2-Q5
-vless://85c4756c-ab3b-4f63-b268-502032cc7bd9@gm.gameserversir.ir:55360?type=tcp&security=none#SIMP1-Q6
-vless://82c227c5-f43d-4d54-8582-48b69f8c525f@213.176.127.40:12125?type=tcp&security=none#Q7
-vless://9f8af94b-5c91-423f-9789-97b40a2c29d0@80.240.16.141:31104?type=tcp&security=none#direct-Q8
-vless://487b7d2a-bf45-4703-91d0-c3e36c66ae89@80.240.16.141:29783?type=tcp&security=none#Q10
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJRMTEiLAogICJhZGQiOiAiODAuMjQwLjE2LjE0MSIsCiAgInBvcnQiOiAzNjg0MSwKICAiaWQiOiAiOWRmN2YzYzItM2U4Zi00MTc1LThlYTQtYTdjNDQ1OGVkMWFmIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogIm5vbmUiCn0=
+vless://487b7d2a-bf45-4703-91d0-c3e36c66ae89@pes.gameserversir.ir:29783?type=tcp&security=none#Q1
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJRMiIsCiAgImFkZCI6ICJwZXMuZ2FtZXNlcnZlcnNpci5pciIsCiAgInBvcnQiOiAzNjg0MSwKICAiaWQiOiAiOWRmN2YzYzItM2U4Zi00MTc1LThlYTQtYTdjNDQ1OGVkMWFmIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogIm5vbmUiCn0=
+vless://7d45d608-092a-4787-9f81-f8b06f911017@pes.gameserversir.ir:58949?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=pes.gameserversir.ir#q3
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206U291ZktYSVNwQ3NqdzY0d0xPVzJsQ00wRHZZK3hLdzdnOTJ4eENRbGQ0ND06Tk9WRkwvbThZUGhjK0szanlVb1NDdzhmb1VrVFI4WTQ4Nmk2NlJ4aEZOMD0@pes.gameserversir.ir:15360?type=tcp#Q4
+vless://d3ee6839-2a67-4366-bb79-4861f3ae3443@pes.gameserversir.ir:43804?type=tcp&security=reality&pbk=dBfdNK5obIwPBCAA9nTclI3_uTclk4ZqCx2QrBLA5Vo&fp=chrome&sni=gsmarena.com&sid=54d48f6b45f1ac&spx=%2F#Q5
+vless://fa7bcc6d-19c9-44b2-80e4-ecd34e5dd564@300232332.webnama.com.tr:1517?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%201
