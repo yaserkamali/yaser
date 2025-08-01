@@ -1,5 +1,4 @@
-vless://52547238-8d19-4755-b469-8b4602a77259@80.240.16.141:20325?type=tcp&security=none#t1-j7yvye4v
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ0Mi1oYTk0emkxcyIsCiAgImFkZCI6ICIyMTMuMTc2LjEyNy40MCIsCiAgInBvcnQiOiA1MDk2NCwKICAiaWQiOiAiZGJiMGNiODYtOTE4Zi00MGNiLTkxZDAtZjczZjU5OWJmOTU5IiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogIm5vbmUiCn0=
-vless://d031ca82-0c6c-4364-94b0-754b8b367fc8@213.176.127.40:46875?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=pes.gameserversir.ir#t3-t5bahb74
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RFlvUlVrTEtyZDRaMzVIMmx5ME16RWRtQ1doaVhCak1GSFFjbEdJZUlMQT06MnVIQTh5Z0JJRjduTzRzOStLaVd3eXZmSVZyWjcvaTE5ejlQdXJSSlNTRT0@213.176.127.40:49012?type=tcp#t4-1sksbcb0
-vless://b1c776c2-40bd-4414-80fa-10fe556c3e47@213.176.127.40:58872?type=tcp&security=reality&pbk=hTPa93s0sWo1oVLlqgAk-5DlqyAPY0TdxE5OEmiwVR8&fp=chrome&sni=ftp.debian.org&sid=95&spx=%2F#t5-h3gdysr5
+vless://32472092-fb04-477b-9c7d-40fd478f053a@213.176.127.40:6666?type=tcp&security=none#1-lo7w14pk
+vless://e6acd511-e81f-4175-b6f5-5c8a35800a90@213.176.127.40:8888?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=tun.gameserversir.ir#2-7p4pbfcp
+vless://c740d09e-4e29-4ec5-bca6-dacafbbe2fb7@213.176.127.40:443?type=tcp&security=reality&pbk=i1-UJqzGMSi9YotHuaZNQUWnLtKIS6wn_e4uPbCOSH0&fp=chrome&sni=gsmarena.com&sid=4953b7cfafdc86&spx=%2F#3-eimclsr5
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TVRTdGtVK1ZDVmRrN1ROQjV0OE1qZXhwRnRpV2FXY0p4Z0ROTzd3UHByRT06TzNWUnZsZkFQSHhvRUtTWUhsZU5MaC95OWU4bVVFd0ZOVjVYb212bURCWT0@213.176.127.40:6008?type=tcp#4-4a2qagxn
