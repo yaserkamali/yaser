@@ -1,8 +1,7 @@
-vless://93d4c934-f050-4b24-bc74-a1e19a485a8e@213.176.127.40:12125?type=tcp&security=none#l1
-vless://397356bc-87b0-4d1b-ba57-2caac293ef00@80.240.16.141:31104?type=tcp&security=none#direct-l2
-vless://2298c022-13e6-4c48-a8c6-0e6d5689e74d@80.240.16.141:29783?type=tcp&security=none#l3
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJsNCIsCiAgImFkZCI6ICI4MC4yNDAuMTYuMTQxIiwKICAicG9ydCI6IDM2ODQxLAogICJpZCI6ICIwMGY3MDk0Yy04MDIzLTQ4ZDEtYmE2MS00ZmQyNDc5OWE5MjgiLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogIm5vbmUiLAogICJ0bHMiOiAibm9uZSIKfQ==
-vless://fa7bcc6d-19c9-44b2-80e4-ecd34e5dd564@300232332.webnama.com.tr:1517?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%201
-vless://fa7bcc6d-19c9-44b2-80e4-ecd34e5dd564@99823232.webnama.com.tr:1517?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%202
-vless://fa7bcc6d-19c9-44b2-80e4-ecd34e5dd564@230920393.f-sub.com:3799?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://fa7bcc6d-19c9-44b2-80e4-ecd34e5dd564@2393123233.torob.com.tr:1429?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%A5%F3%A0%81%AE%F3%A0%81%A7%F3%A0%81%BF%20England
+vless://fa7bcc6d-19c9-44b2-80e4-ecd34e5dd564@all65-vip.f-sub.com:1517?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%201
+vless://fa7bcc6d-19c9-44b2-80e4-ecd34e5dd564@all66-vip.f-sub.com:1517?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%202
+vless://fa7bcc6d-19c9-44b2-80e4-ecd34e5dd564@all67-vip.f-sub.com:1517?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%203
+vless://fa7bcc6d-19c9-44b2-80e4-ecd34e5dd564@23092393.namasha.com.tr:4928?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherland
+vless://fa7bcc6d-19c9-44b2-80e4-ecd34e5dd564@23092393.namasha.com.tr:3799?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://fa7bcc6d-19c9-44b2-80e4-ecd34e5dd564@23092393.namasha.com.tr:3799?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://fa7bcc6d-19c9-44b2-80e4-ecd34e5dd564@23092393.namasha.com.tr:1429?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%A5%F3%A0%81%AE%F3%A0%81%A7%F3%A0%81%BF%20England
