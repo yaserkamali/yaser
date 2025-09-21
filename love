@@ -1,7 +1,4 @@
-vless://fa7bcc6d-19c9-44b2-80e4-ecd34e5dd564@all65-vip.f-sub.com:1517?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%201
-vless://fa7bcc6d-19c9-44b2-80e4-ecd34e5dd564@all66-vip.f-sub.com:1517?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%202
-vless://fa7bcc6d-19c9-44b2-80e4-ecd34e5dd564@all67-vip.f-sub.com:1517?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%203
-vless://fa7bcc6d-19c9-44b2-80e4-ecd34e5dd564@23092393.namasha.com.tr:4928?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherland
-vless://fa7bcc6d-19c9-44b2-80e4-ecd34e5dd564@23092393.namasha.com.tr:3799?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://fa7bcc6d-19c9-44b2-80e4-ecd34e5dd564@23092393.namasha.com.tr:3799?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#%F0%9F%87%B5%F0%9F%87%B1%20Poland
-vless://fa7bcc6d-19c9-44b2-80e4-ecd34e5dd564@23092393.namasha.com.tr:1429?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%A5%F3%A0%81%AE%F3%A0%81%A7%F3%A0%81%BF%20England
+vless://d52c7a31-046e-4856-bd83-a43486773628@213.176.127.40:6666?type=tcp&security=none#1-1
+vless://ed2e5b3a-d2ca-44dd-ba6e-957620d3472d@213.176.127.40:8888?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=tun.gameserversir.ir#2-2
+vless://46e3fc83-b382-45a9-ad55-bc41a0d86226@213.176.127.40:443?type=tcp&security=reality&pbk=i1-UJqzGMSi9YotHuaZNQUWnLtKIS6wn_e4uPbCOSH0&fp=chrome&sni=gsmarena.com&sid=4953b7cfafdc86&spx=%2F#3-3
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TVRTdGtVK1ZDVmRrN1ROQjV0OE1qZXhwRnRpV2FXY0p4Z0ROTzd3UHByRT06SlhCakZNTkJ4VUkyU2dlRHYxS3loOVEvTC8zckNHLzdtT0E4VHp3SmF4TT0@213.176.127.40:6008?type=tcp#4-4
